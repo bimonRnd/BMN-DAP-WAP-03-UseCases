@@ -1,0 +1,68 @@
+[
+    {
+        "title": "Organizzazione delle operazioni e risorse di cantiere",
+        "subtitle": "#Construction",
+        "description": "La gestione 4D Data Driven può ottimizzare i processi in cantiere, ad esempio gestendo le squadre in real time in funzione delle lavorazioni previste, prevenendo le interferenze.",
+        "image": "./img01.jpg",
+        "hoverDescription": "La gestione dei cantieri diventa complessa con l'aumento delle lavorazioni. L'approccio Data Driven e l'uso di algoritmi di Intelligence permettono di simulare le fasi del cantiere, pianificare in anticipo le squadre in caso di variazioni di progetto, e monitorare le forniture e il loro stoccaggio.",
+        "hoverTitle": "Benefits",
+        "hoverResultDescription": "- 15% costi di costruzione \n - 20% tempi di realizzazione delle opere",
+        "featureTitle": "Features",
+        "features": "- Simulazione 4D delle attività di cantiere \n - Sovrapposizione modello As-Built con nuvole di punti \n - Visualizzazione e navigazione delle aree di cantiere \n - Organizzazione risorse del cantiere \n - Gestione della sicurezza in cantiere \n - Contabilizzazione dei lavori \n - Monitoraggio ambientale/strutturale IoT"
+    },
+    {
+        "title": "Pianificazione urbana strutturata su Big Data e IoT",
+        "subtitle": "#SmartCity",
+        "description": "L'organizzazione di data streams consente di visualizzare fenomeni urbani e gestirne le dinamiche, ad esempio pianificando l'inserimento di un immobile nel tessuto urbano in base alle funzioni che lo circondano.",
+        "image": "./img02.jpg",
+        "hoverDescription": "La pianificazione urbanistica gestisce fenomeni complessi legati alle attività urbane. L'uso di dati georeferenziati permette di visualizzare fenomeni areali e lineari, facilitando scelte più consapevoli nella progettazione e pianificazione degli interventi urbani.",
+        "hoverTitle": "Benefits",
+        "hoverResultDescription": "-20% tempi di pianificazione delle opere urbane",
+        "featureTitle": "Features",
+        "features": "- Visualizzazione dei dati di traffico urbano \n - Visualizzazione delle linee di trasporto \n - Visualizzazione di aree urbane  \n - Visualizzazione di dati urbanistici  \n - Coordinamento di elementi GIS \n - Strumenti di pianificazione urbanistica"
+    },
+    {
+        "title": "Gestione delle operazioni di vendita di asset immobiliari",
+        "subtitle": "#RealEstate",
+        "description": "L'utilizzo di tecnologie immersive fotorealistiche consente di visualizzare dati di vendita inerenti al parco immobili selezionato, e simulare gli ambienti costruiti navigabili attraverso la realtà virtuale.",
+        "image": "./img03.jpg",
+        "hoverDescription": "La vendita di un immobile richiede un approccio emozionale per far sentire i clienti a casa prima ancora di visitarlo. L'uso di Digital Twin immersivi consente di esplorare immobili basandosi su dati economici e strutturali, offrendo ambienti fotorealistici che aiutano i clienti a valutare meglio la qualità dell'investimento.",
+        "hoverTitle": "Benefits",
+        "hoverResultDescription": "+25% immobili venduti, \n -15% costi nelle operazioni di vendita.",
+        "featureTitle": "Features",
+        "features": "- Visualizzazione di grafiche relativi agli immobili \n - Visualizzazione dei dati di vendita degli immobili \n - Sezionamento dell'edificio per esplorare gli immobili \n - Navigazione immersiva all'interno degli immobili \n - Visualizzazione delle amenities \n - Visualizzazione dei surroundings puntuali e lineari"
+    },
+    {
+        "title": "Manutenzione predittiva di impianti con algoritmi AI e ML",
+        "subtitle": "#Operations&Maintenance",
+        "description": "L'utilizzo di algoritmi AI e ML per l'analisi dei dati di utilizzo degli impianti consente di ottimizzare le procedure di manutenzione, prevedendo future necessità manutentive e consentendo di operare decisioni basate su dati di forecasting.",
+        "image": "./img04.jpg",
+        "hoverDescription": "La gestione della manutenzione impiantistica e degli asset utilizza l'analisi delle dinamiche di funzionamento e dei tempi di attivazione. L'obiettivo è impiegare algoritmi di Intelligenza Artificiale e Machine Learning per ottenere informazioni sulla manutenzione predittiva e automatizzare l'apertura di ticket di manutenzione.",
+        "hoverTitle": "Benefits",
+        "hoverResultDescription": "+30% riduzione costi di manutenzone, \n +10% durata della vita degli impianti.",
+        "featureTitle": "Features",
+        "features": "- Gestione delle operazioni di manutenzione \n - Interfaccia con BMS per apertura ticket manutenzione"
+    },
+    {
+        "title": "Monitoraggio dei consumi energetici e controllo emissioni",
+        "subtitle": "#Energy",
+        "description": "Il monitoraggio energetico degli edifici consente di valutare i consumi e le emissioni di CO2 nel tempo, consentendo di ottenere un comportamento energetico più efficiente e conseguire un conseguente risparmio di costi.",
+        "image": "./img05.jpg",
+        "hoverDescription": "Il monitoraggio energetico degli edifici analizza consumi e emissioni di CO2 nel tempo, ottimizzando l'uso dell'energia. Questo approccio migliora l'efficienza energetica, riduce gli sprechi e consente un risparmio significativo sui costi operativi, contribuendo anche a una gestione più sostenibile e a una diminuzione dell'impatto ecologico.",
+        "hoverTitle": "Benefits",
+        "hoverResultDescription": "+30% reduction in grid losses, \n +10% improvement in load balancing.",
+        "featureTitle": "Features",
+        "features": "- Monitoraggio e forecasting di consumi energetici \n - Monitoraggio in tempo reale dati gas e acqua \n - Dashboard per monitoraggio KPI di efficientamento \n - Anomaly detection da monitoraggio dei consumi \n - Auto-regolazione delle UTA e dei Fancoil \n - System Integration a sistemi BMS/CDE"
+    },
+    {
+        "title": "Monitoraggio dei livelli di temperatura nei Data Center",
+        "subtitle": "#DataCenter",
+        "description": "Il monitoraggio dei livelli di temperatura interna all'interno dei Data Center consente di prevenire rischi di malfunzionamento, fornendo degli alert e consentendo l'attivazione da remoto di impianti di condizionamento.",
+        "image": "./img06.jpg",
+        "hoverDescription": "Il monitoraggio della temperatura nei Data Center previene malfunzionamenti, inviando alert e permettendo l'attivazione remota dei sistemi di condizionamento per garantire un controllo efficiente.",
+        "hoverTitle": "Benefits",
+        "hoverResultDescription": "+40% increase in detection accuracy, \n +20% faster response to environmental threats.",
+        "featureTitle": "Features",
+        "features": "- Simulazione dei livelli di temperatura interni alle room \n - Monitoraggio dei livelli di temperatura e forecasting \n - Prevenzione del raggiungimento di temperature critiche \n - Azionamento da remoto dei condizionatori"
+    }
+]
